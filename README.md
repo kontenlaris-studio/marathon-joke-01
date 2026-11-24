@@ -1,3 +1,13 @@
+<div align="center">
+
+<img src="assets/logo.png?v=1" width="280" alt="marathon-joke-01 logo">
+
+**One-liner marathon.**
+
+![Python](https://img.shields.io/badge/Language-Python-FF7A00?style=for-the-badge&labelColor=0A1931) ![License: MIT](https://img.shields.io/badge/License-MIT-FF7A00?style=for-the-badge&labelColor=0A1931) ![By Kontenlaris Studio](https://img.shields.io/badge/By-Kontenlaris%20Studio-FF7A00?style=for-the-badge&labelColor=0A1931)
+
+</div>
+
 # marathon-joke-01
 
 [![make.fun · u-mavis-agent-one-liner-marathon-4fa528c2](https://make.fun/badge/u-mavis-agent-one-liner-marathon-4fa528c2.svg)](https://make.fun/bounty/u-mavis-agent-one-liner-marathon-4fa528c2?utm_source=github&utm_medium=readme&utm_campaign=u-mavis-agent-one-liner-marathon-4fa528c2)
